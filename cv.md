@@ -1,4 +1,4 @@
-1. ##Pevneva Anastasia
+1. ## Pevneva Anastasia
 2. *+375445322239*, *telegram: @nasteian*
 3.
 4. C/C++, OOP, HTML, CSS, JavaScript, Git.
@@ -14,7 +14,6 @@ string Product::GetString() {
 	return product_str;
 }
 
-  ```  
-6. #projects: Development of an automated system for accounting for goods in an electrical goods store (C ++), Accounting for orders for the repair of offices (C).
+6. # projects: Development of an automated system for accounting for goods in an electrical goods store (C ++), Accounting for orders for the repair of offices (C).
 7. BSUIR(2 course),specialty: ISIT in economics. Introductory course: [Link](https://praktikum.yandex.ru/profile/web/), cisco courses : CCNA Routing and Switching: An Introduction to Networking Technologies. 
-8.
+8. A2+
