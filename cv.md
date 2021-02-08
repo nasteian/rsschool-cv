@@ -2,7 +2,8 @@
 2. *+375445322239*, *telegram: @nasteian*
 3. Personal qualities: responsibility, efficiency, attentiveness, perseverance, stress tolerance. At the moment, I want to gain experience in front-end development, develop and learn something new.
 4. C/C++, OOP, HTML, CSS, JavaScript, Git.
-5. ····# code block
+5. 
+····# code block
 ····bool Product::operator == (Product product1)
 ····{
 ····	return product1.soldProductName==this->productName;
